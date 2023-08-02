@@ -1,2 +1,1 @@
-hi im hgeen and like other things; 
-learning c#, c, c++, zig, v, rust, asm, java
+Hi, I'm Seb  <br/>
