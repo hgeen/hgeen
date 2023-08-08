@@ -1,4 +1,4 @@
-Hi, I'm Seb  <br/>
+Hi, <br/>
 
 I'm currently learning C#, C/C++, and a little bit of Lua.  <br/>
 I plan on learning Zig, Rust, and maybe V in the distant future. <br/>
